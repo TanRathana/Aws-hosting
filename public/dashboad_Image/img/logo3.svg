@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="336.049" height="198.265" viewBox="0 0 336.049 198.265">
+  <g id="Group_131" data-name="Group 131" transform="translate(405 224.694)">
+    <g id="Group_130" data-name="Group 130" transform="translate(-405 -224.694)">
+      <g id="logo-01" transform="translate(0 0)">
+        <text id="CADT" transform="translate(0 167.265)" fill="#243f90" font-size="88" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">CADT</tspan></text>
+        <path id="Path_1" data-name="Path 1" d="M405.592,250.176l-62.841-16.835a.962.962,0,0,1-.429-1.606l45.991-45.984a.955.955,0,0,1,1.6.429L406.747,249a.962.962,0,0,1-1.154,1.177Z" transform="translate(-141.16 -155.59)" fill="#71a8c6"/>
+        <path id="Path_2" data-name="Path 2" d="M500.575,198.193l-64.38,9.146a.962.962,0,0,1-1.029-1.31l24.28-60.332a.955.955,0,0,1,1.643-.237L501.2,196.654a.955.955,0,0,1-.622,1.539Z" transform="translate(-165.354 -145.091)" fill="#243f90"/>
+        <path id="Path_3" data-name="Path 3" d="M490.92,300.267l-62.811-16.835a.954.954,0,0,1-.437-1.6l45.991-45.991a.955.955,0,0,1,1.6.437L492.1,299.09a.962.962,0,0,1-1.177,1.177Z" transform="translate(-163.351 -168.614)" fill="#df7426"/>
+      </g>
+    </g>
+  </g>
+</svg>
